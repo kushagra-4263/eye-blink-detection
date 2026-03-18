@@ -77,6 +77,12 @@ eye-blink-detection/
 
 ---
 
+## 🧪 Use Cases  
+- Drowsiness detection systems  
+- Driver safety monitoring  
+- Attention tracking applications
+  
+
 ## 📊 Future Improvements
 
 * Add GUI
