@@ -31,6 +31,7 @@ This project detects eye blinks in real-time using computer vision and facial la
 * Eye blink detection using EAR
 * Lightweight and fast
 * Webcam-based tracking
+* Detects real-time eye state (open/closed)
 
 ---
 
