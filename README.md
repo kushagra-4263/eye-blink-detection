@@ -1,4 +1,5 @@
 # 👁️ Eye Blink Detection System
+🚀 Real-time Eye Blink Detection using Computer Vision  
 
 ## 📌 Overview
 
